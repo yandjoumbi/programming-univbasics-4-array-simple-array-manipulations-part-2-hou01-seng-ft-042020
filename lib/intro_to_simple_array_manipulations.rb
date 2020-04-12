@@ -18,7 +18,9 @@ def using_delete(array1, array2)
   array1.delete(array2)
 end
 
-#def using_delete_at (array,Integer)
- # array.delete_at(Integer)
-#end
+def using_delete_at (array,Integer)
+  array.delete_at(Integer)
+end
+
+
 
